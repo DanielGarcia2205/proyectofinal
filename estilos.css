@@ -1,6 +1,16 @@
-.texto{
-    background-color: black;
-    color: aliceblue
-;
+.SINOPSIS{
+    text-align: center;
+}
+.HISTORIA{
+    text-align: center;
+}
+.VIDEO{
+    margin: 0px
 
+}
+.TEXTO{
+    text-align: right;
+}
+.NOMBRE{
+    font-size: 700em;
 }
